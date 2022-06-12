@@ -1,0 +1,1 @@
+console.log('realizei a separação do dist com o src')
